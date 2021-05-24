@@ -1,0 +1,11 @@
+cfgparser (1.1) trusty; urgency=low
+
+  * Fix exception calling has_section() with non-existent category name.
+
+ -- Matthew Hall <launchpad@matthall.co.uk>  Mon, 01 Aug 2016 17:15:45 +0100
+
+cfgparser (1.0) precise; urgency=low
+
+  * Initial version.
+
+ -- Matthew Hall <launchpad@matthall.co.uk>  Fri, 22 Aug 2014 11:39:00 +0100
